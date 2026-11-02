@@ -1,0 +1,8 @@
+# Secrets
+server/keyfile.json
+*keyfile*.json
+.env
+**/.env
+
+# Dependencies
+node_modules/
